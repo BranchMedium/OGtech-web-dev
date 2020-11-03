@@ -1,0 +1,212 @@
+
+body {background-color: whitesmoke}
+header #in-out h1 {
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header nav li {
+    display: inline;
+    list-style-type: none;
+    padding: 0 10px 0 10px;
+}
+header ul a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+header span, #current a {
+    color: orangered;
+}
+#current a:hover {
+    color: white;
+}
+header {
+    background-color: #35424a;
+    border: none;
+    border-bottom: orangered 3px solid;
+}
+div#out {
+    height: 90px;
+}
+header #in-out {
+    float: left;
+    margin-top: 3px;
+    margin-left: 30px;
+}
+header nav ul {
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+section div#in {
+    text-align: center;
+    color: white;
+    height: 400px;
+    display: inline-block;
+}
+section#sec1 {
+    background-image: url("../img/design.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-clip: border-box;
+}
+section div#in h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    font-weight: bolder;
+    display: inline-block;
+}
+section div#in p {
+    margin-top: 20px;
+    padding-top: 30px;
+    font-size: 20px;
+    display: inline-block;
+
+}
+section div.div2 h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+    display: inline;
+    position: relative;
+    left: 50px;
+    top: 25px;
+}
+section .div2 form {
+    float: right;
+    margin-top: 25px;
+}
+section#sec2 form input#em {
+    border: none;
+    outline: none;
+    width: 225px;
+    height: 25px;
+    background-color: white;
+    margin-right: 3px;
+}
+section#sec2 {
+    background-color: #35424a;
+}
+section#sec2 form input.sub {
+    border: none;
+    outline: none;
+    background-color: orangered;
+    color: white;
+    height: 28px;
+    width: 100px;
+    margin-right: 50px;
+}
+section#sec2 form input#em::placeholder {
+    padding-left: 5px;
+}
+section#sec2 div.div2 {
+    height: 70px;
+
+}
+section div#boxes {
+    display: table-row;
+}
+section div.div3 {
+    display: table-cell;
+    height: 300px;
+    width: 450px;
+}
+section div.div3 img {
+    margin-top: 100px;
+    margin-left: 150px;
+}
+section div.div3 h3 {
+    text-align: center;
+    margin-top: 25px;
+
+}
+section div.div3 p {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 80px;
+}
+footer#foot {
+    background-color: orangered;
+    border: none;
+    height: 50px;
+    margin-bottom: 0;
+}
+footer#foot p {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+section article#art1 {
+    margin-left: 50px;
+    width: 650px;
+    font-family: sans-serif;
+}
+aside div#dark1 {
+    background-color: #35424a;
+    width: 400px;
+    height: 190px;
+    position: relative;
+    left: 750px;
+    bottom: 280px;
+    font-family: sans-serif;
+    color: white;
+    padding: 13px;
+}
+section article#art1 p#dark2 {
+    background-color: #35424a;
+    color: white;
+    padding: 13px;
+}
+section div.innn {
+    margin-top: 50px;
+}
+section article#art2, article#art2 h2 {
+    margin-left: 30px;
+}
+section article#art2 ul li {
+    background-color: rgb(230, 230, 230);
+    list-style-type: none;
+    width: 650px;
+    padding: 10px;
+    margin: 5px 0 0 0;
+    border: rgba(100, 100, 100, 0.3) 1px solid;
+}
+aside div#dark3 {
+    background-color: #35424a;
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+    padding: 6px;
+    position: relative;
+    bottom: 400px;
+    left: 830px;
+    color: white;
+}
+form input#nam, form input#emai, form textarea#mess {
+    width: 250px;
+    padding: 3px;
+}
+form input.su {
+    background-color: orangered;
+    width: 60px;
+    height: 30px;
+    border: none;
+    outline: none;
+    color: white;
+    margin-top: 3px;
+}
+div.inn {
+    margin-top: 30px;
+}
+
+
+
+
+
