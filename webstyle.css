@@ -49,7 +49,7 @@ section div#in {
     display: inline-block;
 }
 section#sec1 {
-    background-image: url("../img/design.jpeg");
+    background-image: url("design.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
